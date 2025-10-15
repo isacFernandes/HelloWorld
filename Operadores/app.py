@@ -27,3 +27,10 @@ print(x)
 """
 
 # Operadores lógicos
+
+"""
+and - se as duas condições forem True, o resultado será True
+or - se uma das condições for True, o resultado será True
+not - inverte o booleano do resultado
+
+"""
